@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ks_c_5601-1987"?>
+<정보 trace="true">
+  <!--
+  난이도별 정보 표시 제한입니다.
+  거점은 성, 관문, 항구를 말하며 시설은 내정시설, 군사시설, 함정을 말합니다.
+
+  <자세력_무장_충성도 초급="true" 상급="true" 특급="true"/>
+  <적세력_무장_충성도 초급="true" 상급="true" 특급="true"/>
+
+  <부대_병력 초급="true" 상급="true" 특급="true"/>
+  <부대_기력 초급="true" 상급="true" 특급="true"/>
+  <부대_금 초급="true" 상급="true" 특급="true"/>
+  <부대_병량 초급="true" 상급="true" 특급="true"/>
+  <부대_능력 초급="true" 상급="true" 특급="true"/>
+  <부대_병기 초급="true" 상급="true" 특급="true"/>
+
+  <거점_병력 초급="true" 상급="true" 특급="true"/>
+  <거점_금 초급="true" 상급="true" 특급="true"/>
+  <거점_병량 초급="true" 상급="true" 특급="true"/>
+  <거점_내구 초급="true" 상급="true" 특급="true"/>
+  <거점_기력 초급="true" 상급="true" 특급="true"/>
+  <거점_치안 초급="true" 상급="true" 특급="true"/>
+  <거점_병기 초급="true" 상급="true" 특급="true"/>
+
+  <세력_병력 초급="true" 상급="true" 특급="true"/>
+  <세력_금 초급="true" 상급="true" 특급="true"/>
+  <세력_병량 초급="true" 상급="true" 특급="true"/>
+  <세력_병기 초급="true" 상급="true" 특급="true"/>
+
+  <군단_병력 초급="true" 상급="true" 특급="true"/>
+  <군단_금 초급="true" 상급="true" 특급="true"/>
+  <군단_병량 초급="true" 상급="true" 특급="true"/>
+  <군단_병기 초급="true" 상급="true" 특급="true"/>
+
+  <시설_내구 초급="true" 상급="true" 특급="true"/>
+
+  <전법성공확률 초급="true" 상급="true" 특급="false"/>
+  <계략성공확률 초급="true" 상급="true" 특급="false"/>
+  <일기성공확률 초급="true" 상급="true" 특급="false"/>
+  -->
+  <자세력_무장_충성도 특급="true"/>
+  <적세력_무장_충성도 상급="false" 특급="true"/>
+
+  <부대_병력 상급="true" 특급="true"/>
+  <부대_기력 특급="true"/>
+  <부대_금 특급="true"/>
+  <부대_병량 특급="true"/>
+  <부대_능력 특급="false"/>
+  <부대_병기 상급="true" 특급="true"/>
+
+  <거점_병력 상급="true" 특급="true"/>
+  <거점_금 특급="false"/>
+  <거점_병량 특급="true"/>
+  <거점_내구 특급="true"/>
+  <거점_기력 특급="false"/>
+  <거점_치안 특급="false"/>
+  <거점_병기 상급="false" 특급="false"/>
+
+  <세력_병력 상급="false" 특급="true"/>
+  <세력_금 특급="false"/>
+  <세력_병량 특급="false"/>
+  <세력_병기 상급="false" 특급="false"/>
+
+  <군단_병력 상급="false" 특급="true"/>
+  <군단_금 특급="true"/>
+  <군단_병량 특급="false"/>
+  <군단_병기 상급="false" 특급="false"/>
+
+  <시설_내구 특급="false"/>
+</정보>
